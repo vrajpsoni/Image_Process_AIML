@@ -37,15 +37,6 @@ You can find sample images in the Dataset folder and results can be generated in
 
 These code works better for gray scale images.
 
-### Results
-### Original Image
-<img src="images/image1.jpg" width = "300" height = "225"/> <img src="images/image2.jpg" width = "300" height = "225"/>
-
-### Processed Image
-<img src="images/result1.jpg" width = "300" height = "225"/> <img src="images/result2.jpg" width = "300" height = "225"/>
-
-
-
 ------
 
 ## Keywords
